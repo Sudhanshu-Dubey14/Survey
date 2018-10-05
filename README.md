@@ -9,7 +9,7 @@
 <Dummy GIF below>
 
 
-![Dummy GIF](image/image.gif)
+<img src = "image/image.gif" alt = "Dummy Gif">
 
 
 < Content comes here>
