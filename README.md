@@ -9,7 +9,7 @@
 <Dummy GIF below>
 
 
-![Dummy GIF](images/image.gif)
+![Dummy GIF](image/image.gif)
 
 
 < Content comes here>
