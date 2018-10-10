@@ -58,7 +58,7 @@
 
 	<!-- Demo content -->
 	
-	<div id="content" markdown="1">
+	<div id="content">
 	
 	# Site for Singla sir
 	
