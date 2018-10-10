@@ -67,13 +67,13 @@
 	[Employee Form](https://goo.gl/forms/Ii9ndq99mcpcFnJt2)
 
 
-	<Dummy GIF below>
+	Dummy GIF below
 
 
 	<img src = "image/image.gif" alt = "Dummy Gif">
 
 
-	< Content comes here>
+	Content comes here
 
 	</div>
 	
