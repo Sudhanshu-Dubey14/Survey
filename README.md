@@ -61,22 +61,6 @@ Permalink : index.html
 
 <!-- Demo content -->
 
-<div id="content">
-
-# Site for Singla sir
-
-[Employer Form](https://goo.gl/forms/USKwN4lJoKBIawTo2)
-
-[Employee Form](https://goo.gl/forms/Ii9ndq99mcpcFnJt2)
-
-Dummy GIF below
-
-<img src = "image/image.gif" alt = "Dummy Gif">
-
-Content comes here
-
-</div>
-
 <div id="demo-content">
 
 <header class="entry-header">
@@ -93,10 +77,19 @@ Content comes here
 
 </div>
 
-<div id="content">
+<div id="content" markdown="1">
 
-<h2>This is our page title</h2>
-<p>Lorem ipsum dolor sit amet.</p>
+## Site for Singla sir
+
+[Employer Form](https://goo.gl/forms/USKwN4lJoKBIawTo2)
+
+[Employee Form](https://goo.gl/forms/Ii9ndq99mcpcFnJt2)
+
+Dummy GIF below
+
+<img src = "image/image.gif" alt = "Dummy Gif">
+
+Content comes here
 
 </div>
 
