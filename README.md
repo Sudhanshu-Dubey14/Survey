@@ -1,3 +1,6 @@
+---
+Permalink : index.html
+---
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
@@ -56,50 +59,52 @@
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
 <![endif]-->
 
-	<!-- Demo content -->
-	
-	<div id="content">
-	
-	# Site for Singla sir
-	
-	[Employer Form](https://goo.gl/forms/USKwN4lJoKBIawTo2)
+<!-- Demo content -->
 
-	[Employee Form](https://goo.gl/forms/Ii9ndq99mcpcFnJt2)
+<div id="content">
 
+# Site for Singla sir
 
-	Dummy GIF below
+[Employer Form](https://goo.gl/forms/USKwN4lJoKBIawTo2)
 
+[Employee Form](https://goo.gl/forms/Ii9ndq99mcpcFnJt2)
 
-	<img src = "image/image.gif" alt = "Dummy Gif">
+Dummy GIF below
 
+<img src = "image/image.gif" alt = "Dummy Gif">
 
-	Content comes here
+Content comes here
 
-	</div>
-	
-	<div id="demo-content">
+</div>
 
-		<header class="entry-header">
-			<h1 class="entry-title">Welcome to My Site</h1>
-		</header>
+<div id="demo-content">
 
-		<div id="loader-wrapper">
-			<div id="loader"></div>
- 
-			<div class="loader-section section-left"></div>
-			<div class="loader-section section-right"></div>
- 
-		</div>
-		
-		<div id="content">
-			<h2>This is our page title</h2>
-			<p>Lorem ipsum dolor sit amet.</p>
-		</div>
+<header class="entry-header">
 
-	</div>
-	<!-- /Demo content -->
+<h1 class="entry-title">Welcome to My Site</h1>
 
-	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-	<script src="js/main.js"></script>
+</header>
+
+<div id="loader-wrapper">
+<div id="loader"></div>
+
+<div class="loader-section section-left"></div>
+<div class="loader-section section-right"></div>
+
+</div>
+
+<div id="content">
+
+<h2>This is our page title</h2>
+<p>Lorem ipsum dolor sit amet.</p>
+
+</div>
+
+</div>
+
+<!-- /Demo content -->
+
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="js/main.js"></script>
 
 </body>
