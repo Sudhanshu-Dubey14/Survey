@@ -20,34 +20,35 @@ layout : default
 
 <link rel="stylesheet" href="css/normalize.css">
 <link rel="stylesheet" href="css/main.css">
+
 <script src="js/vendor/modernizr-2.6.2.min.js"></script>
 
 <style type="text/css">
 
 .entry-title
 {
-	height: 100%;
-	/* The html and body elements cannot have any padding or margin. */
-	margin: 0;
-	font-size: 14px;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 32px;
-	margin-bottom: 3px;
+height: 100%;
+/* The html and body elements cannot have any padding or margin. */
+margin: 0;
+font-size: 14px;
+font-family: 'Open Sans', sans-serif;
+font-size: 32px;
+margin-bottom: 3px;
 }
 
 .entry-header
 {
-	text-align: center;
-	margin: 0 auto 50px auto;
-	width: 80%;
-        max-width: 978px;
-	position: relative;
-	z-index: 10001;
+text-align: center;
+margin: 0 auto 50px auto;
+width: 80%;
+max-width: 978px;
+position: relative;
+z-index: 10001;
 }
 
 #demo-content
 {
-	padding-top: 100px;
+padding-top: 100px;
 }
 
 </style>
