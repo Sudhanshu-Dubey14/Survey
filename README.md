@@ -23,6 +23,7 @@ layout : default
 
 <script src="js/vendor/modernizr-2.6.2.min.js"></script>
 
+<!--
 <style type="text/css">
 
 .entry-title
@@ -52,6 +53,7 @@ padding-top: 100px;
 }
 
 </style>
+-->
 
 </head>
 
