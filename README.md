@@ -21,9 +21,10 @@ layout : default
 
 <link rel="stylesheet" href="css/normalize.css">
 <link rel="stylesheet" href="css/main.css">
-<script src="js/vendor/modernizr-2.6.2.min.js"></script>
 
 <!--
+<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
 <style type="text/css">
 
 .entry-title
