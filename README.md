@@ -9,6 +9,7 @@ layout : default
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
 <title>Site for Singla Sir</title>
 
 <!--iOS -->
@@ -20,19 +21,9 @@ layout : default
 <link rel="stylesheet" href="css/normalize.css">
 <link rel="stylesheet" href="css/main.css">
 <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
 <style type="text/css">
-.back-link a
-{
-	color: #4ca340;
-	text-decoration: none; 
-	border-bottom: 1px #4ca340 solid;
-}
-.back-link a:hover, .back-link a:focus
-{
-	color: #408536; 
-	text-decoration: none;
-	border-bottom: 1px #408536 solid;
-}
+
 .entry-title
 {
 	height: 100%;
@@ -43,6 +34,7 @@ layout : default
 	font-size: 32px;
 	margin-bottom: 3px;
 }
+
 .entry-header
 {
 	text-align: center;
@@ -52,12 +44,16 @@ layout : default
 	position: relative;
 	z-index: 10001;
 }
+
 #demo-content
 {
 	padding-top: 100px;
 }
+
 </style>
+
 </head>
+
 <body class="demo">
 
 <!--[if lt IE 7]>
