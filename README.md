@@ -36,11 +36,13 @@ margin: 0;
 font-size: 14px;
 font-family: 'Open Sans', sans-serif;
 font-size: 32px;
+color: #b5e853;
 margin-bottom: 3px;
 }
 
 .entry-header
 {
+top: 30%;
 text-align: center;
 margin: 0 auto 50px auto;
 width: 80%;
