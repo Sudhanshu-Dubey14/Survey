@@ -1,8 +1,6 @@
-<!--
 ---
 layout : default
 ---
--->
 
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -63,13 +61,14 @@ z-index: 10001;
 
 <div id="demo-content">
 
+<div id="loader-wrapper">
+
 <header class="entry-header">
 
 <h1 class="entry-title">Welcome to My Site</h1>
 
 </header>
 
-<div id="loader-wrapper">
 <div id="loader"></div>
 
 <div class="loader-section section-left"></div>
