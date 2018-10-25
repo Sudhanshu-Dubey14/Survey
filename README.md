@@ -24,7 +24,6 @@ layout : default
 <link rel="stylesheet" href="css/normalize.css">
 <link rel="stylesheet" href="css/main.css">
 
-<!--
 <script src="js/vendor/modernizr-2.6.2.min.js"></script>
 
 <style type="text/css">
@@ -56,7 +55,6 @@ padding-top: 100px;
 }
 
 </style>
--->
 
 </head>
 
@@ -104,9 +102,7 @@ Content comes here
 
 <!-- /Demo content -->
 
-<!--
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="js/main.js"></script>
--->
 
 </body>
