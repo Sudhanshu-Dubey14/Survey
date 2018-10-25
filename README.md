@@ -65,11 +65,11 @@ z-index: 10001;
 
 <div id="loader-wrapper">
 
-<header class="entry-header">
+<div class="entry-header">
 
 <h1 class="entry-title">Welcome to My Site</h1>
 
-</header>
+</div>
 
 <div id="loader"></div>
 
