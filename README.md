@@ -42,7 +42,7 @@ margin-bottom: 3px;
 
 .entry-header
 {
-top: 30%;
+top: 10%;
 text-align: center;
 margin: 0 auto 50px auto;
 width: 80%;
