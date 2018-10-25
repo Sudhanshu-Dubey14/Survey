@@ -49,11 +49,6 @@ position: relative;
 z-index: 10001;
 }
 
-#demo-content
-{
-padding-top: 100px;
-}
-
 </style>
 
 </head>
